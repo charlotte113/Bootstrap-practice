@@ -1,0 +1,16 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+$primary: #A1BAB0;
+// $body-secondary-bg: ivory;
+$bs-accordion-btn-color: rgb(186,161,167);
+$accordion-button-active-bg: wheat;
+$nav-pills-link-active-bg: white;
+$nav-pills-link-active-color: royalblue;
+$nav-link-color: white;
+$btn-primary: #a7a1ba;
+
+// npm 專案管理 node package manager
+@import "../bootstrap/scss/bootstrap";
+
+// Then add additional custom code here
